@@ -315,3 +315,14 @@ html {
 .my-skills__tittle span {
     color: #000000
 }
+
+.my-skills__content {
+    display: grid;
+    grid-template-columns: 29% 71%;
+    height: 417px;
+}
+
+.skills {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
