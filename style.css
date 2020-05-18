@@ -104,8 +104,8 @@ html {
 .circle:nth-last-child(2) .circle__text {
     padding-left: 7px;
 }
-/* 
-.ellipse__text */
+ 
+/*.ellipse__text */
 
 .hello__text {
     letter-spacing: 0.125em;
